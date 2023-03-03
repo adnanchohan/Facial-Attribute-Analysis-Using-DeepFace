@@ -1,4 +1,4 @@
-# Facial-Attribut-Analysis-Using-DeepFace
+# Facial-Attribute-Analysis-Using-DeepFace
 
 This Project is Built using PYQT5 and DeepFace to run this, install the following libraries:
 
